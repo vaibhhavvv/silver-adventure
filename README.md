@@ -1,2 +1,0 @@
-# silver-adventure
-test repository
